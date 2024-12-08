@@ -22,7 +22,7 @@
         "README.md"
       ],
       "repositories": {
-        "<USERNAME>/<USERNAME>.github.io": {
+        "ooheunda/oed-test.github.io": {
           "permissions": "write-all"
         }
       }
